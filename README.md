@@ -31,10 +31,7 @@ If D<0: no real roots
 
 Then it calculates the roots using the quadratic formula:
 
-x=
-2a
-−b±
-D
+x=[-b()4ac]/2a
 	​
 
 	​
