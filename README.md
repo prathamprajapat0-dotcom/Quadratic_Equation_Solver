@@ -10,9 +10,7 @@ The user only needs to enter the values of a, b, and c separated by commas (exam
 
 ✅ Full-screen interactive GUI using Tkinter
 ✅ Takes coefficient input in a simple comma-separated format
-✅ Calculates the discriminant (b^
-2
-−4ac)
+✅ Calculates the discriminant (b^2−4ac)
 ✅ Detects the type of roots:
 
 Real and Distinct Roots
